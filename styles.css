@@ -1,0 +1,12 @@
+svg {
+  border: 1px solid red;
+}
+
+.circle {
+  cx: 130px;
+  cy: 130px;
+  r: 125px;
+  fill: #00ff88;
+  stroke: black;
+  stroke-width: 10px;
+}
